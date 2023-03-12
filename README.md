@@ -49,3 +49,7 @@ textual analysis on the extracted article text and compute the required variable
 If you have any questions or issues with the project, please contact us at:
 LinkedIn: https://www.linkedin.com/in/pwaquar/
 Gmail: ywaquar@gmail.com
+
+**Download**
+You can download file from googledrive link also.
+https://drive.google.com/drive/folders/1neIVPwuArAmaCVjC2yG9ETosR0rOY4PU?usp=share_link
