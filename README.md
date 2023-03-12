@@ -1,17 +1,17 @@
-**Text Analysis Project
+***Text Analysis Project***
 
 **Introduction**
 
 Welcome to the Text Analysis Project, developed by BlackOffer. This project performs text analysis on articles to compute variables such as sentiment scores, readability, word count, and personal pronouns. The project is divided into two parts: data extraction and data analysis. To understand the project, please refer to the objective.docx and Text Analysis.docx files. For instructions on how to use the code, check the Instruction.docx file.
 
-**#Dependencies**
+**Dependencies**
 
 To run the project, you will need the following dependencies:
 1) PyCharm or VSCode
 2) Python Programming language
 3) All the required libraries are included in the requirements.txt file, with version numbers specified.
 
-#Contents
+**Contents**
 
 The repository includes the following files:
 
@@ -25,7 +25,8 @@ The repository includes the following files:
 8)Text Analysis.docx: Objective of this document is to explain methodology adopted to perform text analysis to drive sentimental opinion, sentiment scores,         readability, passive words, personal pronouns and etc.
 9)Instruction.docx: This is an instruction file which explains how to use the code.
 
-#How to Use
+**How to Use**
+
 To analyze articles using this project, please follow these steps:
 1) Download the all the files and folder.
 2) Create a sperate 'PythonFile' folder where all the .py file will be present. This will be current working directory.
@@ -40,7 +41,8 @@ textual analysis on the extracted article text and compute the required variable
 10) A separate "LogfileFolder" will be created to store all the log files for each module.
 11) Console handler and file handle is set to ERROR level. It can be changed from the logger module.
 
-#Contact
+**Contact**
+
 If you have any questions or issues with the project, please contact us at:
 LinkedIn: https://www.linkedin.com/in/pwaquar/
 Gmail: ywaquar@gmail.com
