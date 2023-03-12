@@ -22,7 +22,8 @@ The repository includes the following files:
 5) StopWords: This folder contains a list of stop words used for cleaning the text.
 6) MasterDictionary: This folder contains a master dictionary of positive and negative words.
 7) Obective.docx: The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables.
-8)Text Analysis.docx: Objective of this document is to explain methodology adopted to perform text analysis to drive sentimental opinion, sentiment scores,         readability, passive words, personal pronouns and etc.
+8)Text Analysis.docx: Objective of this document is to explain methodology adopted to perform text analysis to drive sentimental opinion, sentiment scores,
+readability, passive words, personal pronouns and etc.
 9)Instruction.docx: This is an instruction file which explains how to use the code.
 
 **How to Use**
