@@ -1,9 +1,10 @@
-##Text Analysis Project
+**Text Analysis Project
 
-#Introduction
+**Introduction**
+
 Welcome to the Text Analysis Project, developed by BlackOffer. This project performs text analysis on articles to compute variables such as sentiment scores, readability, word count, and personal pronouns. The project is divided into two parts: data extraction and data analysis. To understand the project, please refer to the objective.docx and Text Analysis.docx files. For instructions on how to use the code, check the Instruction.docx file.
 
-#Dependencies
+**#Dependencies**
 
 To run the project, you will need the following dependencies:
 1) PyCharm or VSCode
