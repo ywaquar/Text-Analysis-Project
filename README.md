@@ -28,8 +28,10 @@ The repository includes the following files:
 **How to Use**
 
 To analyze articles using this project, please follow these steps:
-1) Download the all the files and folder.
-2) Create a sperate 'PythonFile' folder where all the .py file will be present. This will be current working directory.
+1) Download the all the .py, .xlsx, .txt file in your syste,
+2)  ***Create a sperate 'PythonFile' folder where all the .py file will be present. This will be current working directory.
+  all the stopwords.txt type file should be in StopWords folder, positive-words.txt and negative-words.txt should be "MasterDictionary" folder***
+
 3) Ensure that the "input.xlsx" and "Output Data Structure.xlsx" should be in located in parent working directory, and the current working directory should be named "PythonFile where .py file are presents."
 4) Create a Python environment with the required dependencies, including BeautifulSoup, nltk, Pandas, and Requests.
 5) Open the terminal or command prompt and navigate to the project directory.
@@ -40,6 +42,7 @@ textual analysis on the extracted article text and compute the required variable
 9) A "textfile" folder will be created after the run of "main.py" python script to store all the extracted text content with the URL_ID as the base name.
 10) A separate "LogfileFolder" will be created to store all the log files for each module.
 11) Console handler and file handle is set to ERROR level. It can be changed from the logger module.
+
 
 **Contact**
 
